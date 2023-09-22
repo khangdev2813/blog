@@ -1,6 +1,6 @@
 class SiteController {
   index(req, res) {
-    res.render("home");
+    res.render("homeHoHo");
   }
   search(req, res) {
     res.render("search");
