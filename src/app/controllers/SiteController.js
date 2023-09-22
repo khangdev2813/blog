@@ -3,7 +3,7 @@ class SiteController {
     res.render("home");
   }
   search(req, res) {
-    res.render("new");
+    res.render("search");
   }
 }
 module.exports = new SiteController();
